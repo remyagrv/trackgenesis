@@ -1,0 +1,35 @@
+[
+    {
+        "productId": "gin01",
+         "batchId": "B12",
+         "distillerName": "eenoolooapik",
+        "bottlingTime": "1642516201094"
+    },
+    {
+        "productId": "gin02",
+         "batchId": "B13",
+         "distillerName": "eenoolooapik",
+        "bottlingTime": "1642516201094"
+    },
+    {
+        "productId": "gin03",
+         "batchId": "B14",
+         "distillerName": "eenoolooapik",
+        "bottlingTime": "1642516201094"
+    },{
+        "productId": "gin04",
+         "batchId": "B15",
+         "distillerName": "eenoolooapik",
+        "bottlingTime": "1642516201094"
+    },{
+        "productId": "gin05",
+         "batchId": "B16",
+         "distillerName": "eenoolooapik",
+        "bottlingTime": "1642516201094"
+    },{
+        "productId": "gin06",
+         "batchId": "B17",
+         "distillerName": "eenoolooapik",
+        "bottlingTime": "1642516201094"
+    }
+]

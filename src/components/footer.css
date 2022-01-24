@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 70px;
+    }
+    
+    .footer {
+    background-color: transparent;
+    height: 44px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+   
+    font-size: 20px;
+    
+    }
+    .footer:hover{
+        background-color: lightslategray;
+    }
+    .social{
+        text-align: center;
+        margin-left: 35%;
+        margin-top: 5px;
+       
+    }
+    a,i{
+        float:left;
+        margin-left: 30px;
+        color: orange;
+        margin-top: 5px;
+        
+    }
+    i:hover{
+        color: black;
+       
+    }
